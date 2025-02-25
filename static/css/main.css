@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+table {
+  border: 1px solid;
+}
+
+th,
+td {
+  border: 1px solid;
+  padding: 10px;
+}
+#content {
+  margin-top: 20px;
+}
