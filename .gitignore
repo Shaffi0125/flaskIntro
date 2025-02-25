@@ -3,10 +3,6 @@ env/
 
 # Ignore Python cache files
 __pycache__/
-*.pyc
 
 # Ignore database files
 instance/*.db
-
-# Ignore log files
-*.log
